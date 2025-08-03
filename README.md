@@ -8,7 +8,7 @@
 
 > [!NOTE]
 >
-> 此网站永久有效，请复制网站链接予以保管
+> 此网站永久有效，请复制网站链接并予以保管
 
 ------
 
@@ -36,9 +36,6 @@ wow~ ⊙o⊙，玉足
 
 
 
-
-
 ------
 
-[粤ICP备2025222986号-2]: https://beian.miit.gov.cn/#/Integrated/index
-
+[[渝ICP备2025222986号-6](https://beian.miit.gov.cn/#/Integrated/index)](http://localhost:3000)
